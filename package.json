@@ -1,0 +1,22 @@
+{
+  "name": "react-p",
+  "version": "1.0.0",
+  "description": "new react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nageshgitversion/react-p.git"
+  },
+  "author": "Harsha Vardhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nageshgitversion/react-p/issues"
+  },
+  "homepage": "https://github.com/nageshgitversion/react-p#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
